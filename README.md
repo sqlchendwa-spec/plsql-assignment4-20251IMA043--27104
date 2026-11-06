@@ -4,7 +4,7 @@ Group Assignment IV -  PL/SQL Programming (Records, Collections, Cursors, and Bu
 * **Names:** -Kundwa Nkwaya Kelche — 20251IMA043
              -Mugisha Igor -27104           
 * **
-* **Course:** Database Development with PL/SQL (INSY 8311)[cite: 1]
+* **Course:** Database Development with PL/SQL (INSY 8311)
 * **Instructor:** Eric Maniraguha
 
 * ## Application Description
